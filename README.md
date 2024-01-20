@@ -7,11 +7,11 @@ Data Analyst/Scientist
 Après une carrière en mathématiques appliquées, je me suis reconverti en data analyst/scientist.
 
 🌍  J'habite actuelement Lyon, France.
-*   ✉️  Vous pouvez me contacter [HBMerouane@Gmail.com](mailto:HBMerouane@Gmail.com)
-*   🚀  Je travaille actuellement sur [Mon Portfolio](http://github.com/elho2007)
-*   🧠  J'apprends actuellement Power BI
-*   🤝  Je suis ouvert à des collaboration en Python/Data analysis/science
-*   ⚡  Je suis à la recherche d'un post dans le domaine
+✉️  Vous pouvez me contacter [HBMerouane@Gmail.com](mailto:HBMerouane@Gmail.com)
+🚀  Je travaille actuellement sur [Mon Portfolio](http://github.com/elho2007)
+🧠  J'apprends actuellement Power BI
+🤝  Je suis ouvert à des collaboration en Python/Data analysis/science
+⚡  Je suis à la recherche d'un post dans le domaine
 
 ### Skills 
 <p align="left">
