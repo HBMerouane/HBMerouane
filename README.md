@@ -1,4 +1,4 @@
-Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Houcine Boumediene Merouane
+Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je suis Houcine Boumediene Merouane
 ===================================================================================================================================================
 
 Data Analyst/Scientist
@@ -6,11 +6,11 @@ Data Analyst/Scientist
 
 Après une carrière en mathématiques appliquées, je me suis reconverti en data analyst/scientist.
 
-*   🌍  I'm based in France
-*   ✉️  You can contact me at [HBMerouane@Gmail.com](mailto:HBMerouane@Gmail.com)
-*   🚀  I'm currently working on [MyPortfolio](http://github.com/elho2007)
-*   🧠  I'm learning Power BI
-*   🤝  I'm open to collaborating on Python/Data analysis/science
+*   🌍  J'habite actuelement Lyon, France.
+*   ✉️  Vous pouvez me contacter [HBMerouane@Gmail.com](mailto:HBMerouane@Gmail.com)
+*   🚀  Je travaille actuellement sur [Mon Portfolio](http://github.com/elho2007)
+*   🧠  J'apprends actuellement Power BI
+*   🤝  Je suis ouvert à des collaboration en Python/Data analysis/science
 *   ⚡  Je suis à la recherche d'un post dans le domaine
 
 ### Skills 
