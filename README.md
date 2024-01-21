@@ -19,6 +19,9 @@ Après une carrière en mathématiques appliquées, je me suis reconverti en dat
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://www.sql.sh/" target="_blank" rel="noreferrer"><img src="skills/sql-colored.svg" width="36" height="36" alt="Sql" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="skills/git-colored.png" width="50" height="36" alt="Git" /></a>
+  <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank" rel="noreferrer"><img src="skills/selenium-colored.png" width="60" height="36" alt="Selenium" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="skills/r-colored.png" width="50" height="36" alt="R language" /></a> 
+  <a href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank" rel="noreferrer"><img src="skills/uml-colored.png" width="50" height="36" alt="UML" /></a>    
 </p>
                     
 ### Tools 
@@ -27,7 +30,8 @@ Après une carrière en mathématiques appliquées, je me suis reconverti en dat
   <a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="tools/talend-colored.png" width="60" height="36" alt="Talend" /></a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="tools/tableau-colored.png" width="60" height="36" alt="Tableau" /></a>  
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="tools/powerbi-colored.png" width="60" height="36" alt="Tableau" /></a>   
-  <a href="https://en.wikipedia.org/wiki/Google_Sheets" target="_blank" rel="noreferrer"><img src="tools/sheets-colored.png" width="60" height="36" alt="Google Sheets" /></a>    
+  <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="tools/excel-colored.png" width="60" height="36" alt="excel" /></a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="tools/vsc-colored.png" width="60" height="36" alt="VSCode" /></a>     
 </p>
 
 ### Socials
