@@ -16,23 +16,23 @@ Après une carrière en mathématiques appliquées, je me suis reconverti en dat
 ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="skills/r-colored.png" width="50" height="36" alt="R language" /></a> 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://www.sql.sh/" target="_blank" rel="noreferrer"><img src="skills/sql-colored.svg" width="36" height="36" alt="Sql" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="skills/git-colored.png" width="50" height="36" alt="Git" /></a>
-  <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank" rel="noreferrer"><img src="skills/selenium-colored.png" width="60" height="36" alt="Selenium" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="skills/r-colored.png" width="50" height="36" alt="R language" /></a> 
   <a href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank" rel="noreferrer"><img src="skills/uml-colored.png" width="50" height="36" alt="UML" /></a>    
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="skills/git-colored.png" width="50" height="36" alt="Git" /></a>
+  <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank" rel="noreferrer"><img src="skills/selenium-colored.png" width="60" height="36" alt="Selenium" /></a>  
   <a href="https://www.autoitscript.com/site/" target="_blank" rel="noreferrer"><img src="skills/autoit-colored.png" width="50" height="36" alt="AutoIt" /></a>    
 </p>
                     
 ### Tools 
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="tools/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="tools/talend-colored.png" width="60" height="36" alt="Talend" /></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="tools/tableau-colored.png" width="60" height="36" alt="Tableau" /></a>  
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="tools/powerbi-colored.png" width="60" height="36" alt="Tableau" /></a>   
-  <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="tools/excel-colored.png" width="60" height="36" alt="excel" /></a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="tools/vsc-colored.png" width="60" height="36" alt="VSCode" /></a>     
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="tools/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="tools/excel-colored.png" width="60" height="36" alt="excel" /></a>
+  <a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="tools/talend-colored.png" width="60" height="36" alt="Talend" /></a>
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="tools/powerbi-colored.png" width="60" height="36" alt="Tableau" /></a>    
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="tools/tableau-colored.png" width="60" height="36" alt="Tableau" /></a>  
 </p>
 
 ### Socials
