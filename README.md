@@ -22,6 +22,7 @@ Après une carrière en mathématiques appliquées, je me suis reconverti en dat
   <a href="https://www.selenium.dev/documentation/webdriver/" target="_blank" rel="noreferrer"><img src="skills/selenium-colored.png" width="60" height="36" alt="Selenium" /></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="skills/r-colored.png" width="50" height="36" alt="R language" /></a> 
   <a href="https://fr.wikipedia.org/wiki/UML_(informatique)" target="_blank" rel="noreferrer"><img src="skills/uml-colored.png" width="50" height="36" alt="UML" /></a>    
+  <a href="https://www.autoitscript.com/site/" target="_blank" rel="noreferrer"><img src="skills/autoit-colored.png" width="50" height="36" alt="AutoIt" /></a>    
 </p>
                     
 ### Tools 
