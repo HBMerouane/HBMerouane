@@ -8,7 +8,7 @@ Après une carrière en mathématiques appliquées, je me suis reconverti en dat
 
 🌍  J'habite actuelement Lyon, France.<br>
 ✉️  Vous pouvez me contacter [HBMerouane@Gmail.com](mailto:HBMerouane@Gmail.com)<br>
-🚀  Je travaille actuellement sur Mon Portfolio <br>
+🚀  Je travaille actuellement sur Mon Portfolio et un projet data analyse<br>
 🧠  J'apprends actuellement Power BI <br>
 🤝  Je suis ouvert à des collaboration en Python/Data analysis/science <br>
 ⚡  Je suis à la recherche d'un post dans le domaine
