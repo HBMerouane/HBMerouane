@@ -6,7 +6,7 @@ Data Analyst/Scientist
 
 Après une carrière en tant qu'enseignant chercheur en mathématiques appliquées et fort d'une expérience en développement, je me suis orienté vers une reconversion professionnelle en tant que data analyst, voire scientist.
 
-🌍  Je réside actuellement à Lyon, en France.<br>
+🌍  Je réside actuellement à Villeurbanne-Lyon, en France.<br>
 ✉️  Vous pouvez me joindre à l'adresse [HBMerouane@Gmail.com](mailto:HBMerouane@Gmail.com)<br>
 🚀  En ces moments, j'améliore mes compértences en data science. <br>
 🧠  Je tests actuellement Google Kaggle. <br>
