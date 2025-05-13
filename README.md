@@ -4,14 +4,14 @@ Salut, je suis Houcine Boumediene Merouane
 Data Analyst/Scientist
 ----------------------
 
-Après une carrière en tant qu'enseignant chercheur en mathématiques appliquées et fort d'une expérience en développement, je me suis orienté vers une reconversion professionnelle en tant que data analyst, voire scientist.
+Après une carrière en tant qu'enseignant chercheur en mathématiques appliquées et une forte expérience en développement, je me suis orienté vers l'entreprenariat. 
 
 🌍  Je réside actuellement à Villeurbanne-Lyon, en France.<br>
 ✉️  Vous pouvez me joindre à l'adresse [HBMerouane@Gmail.com](mailto:HBMerouane@Gmail.com)<br>
 🚀  En ces moments, j'améliore mes compértences en data science. <br>
-🧠  Je tests actuellement Google Kaggle. <br>
+🧠  Je tests actuellement la reconnaissance visuelle. <br>
 🤝  Je suis ouvert à toute collaboration. <br>
-⚡  Je suis en quête d'un poste ou d'un projet intéressant.
+⚡  Je suis en quête d'une nouvelle expérience.
 
 ### Skills 
 <p align="left">
